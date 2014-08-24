@@ -1,0 +1,7 @@
+# name: the name
+# count: only download the latest N podcasts
+# url: the valid feed url
+# e.g. somename={"name":"anything", "count":5, "url":"the url of the feed"}
+
+[channel]
+somename={"name":"anything", "count":5, "url":"the url of the feed"}
